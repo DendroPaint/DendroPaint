@@ -210,7 +210,7 @@ def LaunchEditor():
 root = Tk()
 root.geometry('695x370')
 root.configure(background='#4d4949')
-root.title ( ' Dendrophyl - beta version' )
+root.title ( ' DendroPaint 0.1' )
 
 
 background_image = PhotoImage(file = '4_sys/like2.png')
